@@ -69,3 +69,8 @@ body {
 #new-quote:hover {
   cursor: pointer;
 }
+
+.me, .me a {
+  color: #ffffff;
+}
+
